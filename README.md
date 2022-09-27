@@ -13,7 +13,7 @@ In this deliverable, you'll consume the [Star Wars API](https://swapi.dev/) and 
 To get set up:
 
 - Fork and clone this repo
-- Use `create-react-app .` to create a React app inside the current directory
+- Use `npx create-react-app .` to create a React app inside the current directory
 - Open VS Code.
 - Open a terminal in VS Code.
 - Start the React Dev Server.
